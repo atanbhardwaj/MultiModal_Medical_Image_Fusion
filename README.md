@@ -1,2 +1,2 @@
 # MultiModal_Medical_Image_Fusion
-A project on Image Processing
+Multi-Modality Medical Image Fusion using Discrete Wavelet Transform.
